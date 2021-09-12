@@ -1,13 +1,4 @@
 dependencies:
-- python=3
+- C
 - pip:
-  - IPython
-  - ipykernel
-  - tensorflow
-  - numpy
-  - pandas
-  - matplotlib
-  - scipy
-  - scikit-learn
-  - thinc
-  - spacy
+  - jupyter-c-kernel
