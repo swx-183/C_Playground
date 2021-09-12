@@ -1,0 +1,4 @@
+conda env create -f environment.yml
+conda activate environment
+install_c_kernel
+jupyter kernelspec list
