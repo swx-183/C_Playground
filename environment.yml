@@ -1,4 +1,4 @@
-name: c_cpp
+name: environment
 channels:
     - conda-forge
     - https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
