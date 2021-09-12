@@ -1,4 +1,0 @@
-dependencies:
-- C
-- pip:
-  - jupyter-c-kernel
