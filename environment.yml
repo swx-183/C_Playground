@@ -13,3 +13,5 @@ dependencies:
     - xeus-cling=0.7.1
     - pip:
         - jupyter-c-kernel==1.2.2
+        - IPython
+        - jupyter_client
