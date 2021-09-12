@@ -1,4 +1,4 @@
-name: cling
+name: c_cpp
 channels:
     - conda-forge
     - https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
@@ -11,3 +11,5 @@ dependencies:
     - jupyter
     - notebook
     - xeus-cling=0.7.1
+    - pip:
+        - jupyter-c-kernel==1.2.2
